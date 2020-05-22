@@ -1,2 +1,5 @@
-# battery_alert
-battery indicator python
+# Battery Alert!
+
+a battery indicator tool in python
+
+
